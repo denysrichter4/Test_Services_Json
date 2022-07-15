@@ -113,8 +113,8 @@
                "padding":"16, 16, 250, 16",
                "alignment":"start",
                "child":{
-                  "type":"Transações",
-                  "data":"Home",
+                  "type":"Text",
+                  "data":"Cartões",
                   "style":{
                      "fontSize":20.0
                   }
@@ -160,7 +160,7 @@
                "alignment":"start",
                "child":{
                   "type":"Text",
-                  "data":"Empréstimos",
+                  "data":"TRansações",
                   "style":{
                      "fontSize":20.0
                   }
