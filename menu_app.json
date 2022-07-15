@@ -22,7 +22,7 @@
                "alignment":"start",
                "child":{
                   "type":"Text",
-                  "data":"Home",
+                  "data":"Home teste",
                   "style":{
                      "fontSize":20.0
                   }
