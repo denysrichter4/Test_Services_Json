@@ -1,4 +1,4 @@
-{
+'''{
    "type":"ListView",
    "padding":"10, 10, 10, 10",
    "children":[
@@ -417,4 +417,4 @@
          "thickness":3.0
       }
    ]
-}
+}'''
