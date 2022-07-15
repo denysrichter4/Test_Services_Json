@@ -390,7 +390,7 @@
                "alignment":"start",
                "child":{
                   "type":"Text",
-                  "data":"Home",
+                  "data":"Semáforo",
                   "style":{
                      "fontSize":20.0
                   }
