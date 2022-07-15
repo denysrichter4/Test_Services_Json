@@ -57,14 +57,14 @@
                "alignment":"start",
                "child":{
                   "type":"Icon",
-                  "data":"home",
+                  "data":"chat",
                   "color":"#FF0000",
                   "size":25.0
                }
             },
             {
                "type":"Container",
-               "padding":"16, 16, 250, 16",
+               "padding":"16, 16, 0, 16",
                "alignment":"start",
                "child":{
                   "type":"Text",
