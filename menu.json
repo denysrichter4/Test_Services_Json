@@ -1,0 +1,49 @@
+{
+  "menu": {
+    "home": {
+      "icon": "home",
+      "title": "Home",
+      "subtitle": ""
+    },
+    "noticacoes": {
+      "icon": "notification",
+      "title": "Notificações",
+      "subtitle": ""
+    },
+    "saldo": {
+      "icon": "saldo",
+      "title": "Saldo e extrato",
+      "subtitle": "Veja seu saldo e extrato"
+    },
+    "transacoes": {
+      "icon": "transfer",
+      "title": "Transações",
+      "subtitle": ""
+    },
+    "cartoes": {
+      "icon": "card",
+      "title": "Cartões",
+      "subtitle": ""
+    },
+    "santanderon": {
+      "icon": "graph",
+      "title": "Santander On",
+      "subtitle": "Veja como anda sua vida financeira"
+    },
+    "openfinance": {
+      "icon": "globe",
+      "title": "Open Finance",
+      "subtitle": "Mais autonomia e as melhores ofertas"
+    },
+    "pix": {
+      "icon": "losango",
+      "title": "Pix",
+      "subtitle": "Pague, transfira e receba"
+    },
+    "emprestimo": {
+      "icon": "apoio",
+      "title": "Empréstimos",
+      "subtitle": ""
+    }
+  }
+}
