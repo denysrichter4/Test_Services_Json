@@ -1,6 +1,5 @@
 {
-  "menu": {
-    "home": {
+  "home": {
       "icon": "home",
       "title": "Home",
       "subtitle": ""
@@ -45,5 +44,4 @@
       "title": "Empréstimos",
       "subtitle": ""
     }
-  }
 }
