@@ -1,84 +1,82 @@
-{
-   "dynamicMenu":[
-      {
-         "itemName":"Default",
-         "content":[
-            {
-               "icon":"home",
-               "title":"Home",
-               "subtitle":""
-            },
-            {
-               "icon":"notification",
-               "title":"Notificações",
-               "subtitle":""
-            },
-            {
-               "icon":"saldo",
-               "title":"Saldo e extrato",
-               "subtitle":"Veja seu saldo e extrato"
-            },
-            {
-               "icon":"transfer",
-               "title":"Transações",
-               "subtitle":""
-            },
-            {
-               "icon":"card",
-               "title":"Cartões",
-               "subtitle":""
-            },
-            {
-               "icon":"graph",
-               "title":"Santander On",
-               "subtitle":"Veja como anda sua vida financeira"
-            },
-            {
-               "icon":"globe",
-               "title":"Open Finance",
-               "subtitle":"Mais autonomia e as melhores ofertas"
-            },
-            {
-               "icon":"losango",
-               "title":"Pix",
-               "subtitle":"Pague, transfira e receba"
-            },
-            {
-               "icon":"apoio",
-               "title":"Empréstimos",
-               "subtitle":""
-            }
-         ]
-      },
-      {
-         "itemName":"Default 2",
-         "content":[
-            {
-               "icon":"home",
-               "title":"Home",
-               "subtitle":""
-            },
-            {
-               "icon":"notification",
-               "title":"Notificações",
-               "subtitle":""
-            },
-            {
-               "icon":"saldo",
-               "title":"Saldo e extrato",
-               "subtitle":"Veja seu saldo e extrato"
-            },
-            {
-               "icon":"transfer",
-               "title":"Transações",
-               "subtitle":""
-            },
-            {
-               "icon":"apoio",
-               "title":"Empréstimos",
-               "subtitle":""
-            }
-         ]
-      }
-   ]
-}
+[
+   {
+      "itemName":"Default",
+      "content":[
+         {
+            "icon":"home",
+            "title":"Home",
+            "subtitle":""
+         },
+         {
+            "icon":"notification",
+            "title":"Notificações",
+            "subtitle":""
+         },
+         {
+            "icon":"saldo",
+            "title":"Saldo e extrato",
+            "subtitle":"Veja seu saldo e extrato"
+         },
+         {
+            "icon":"transfer",
+            "title":"Transações",
+            "subtitle":""
+         },
+         {
+            "icon":"card",
+            "title":"Cartões",
+            "subtitle":""
+         },
+         {
+            "icon":"graph",
+            "title":"Santander On",
+            "subtitle":"Veja como anda sua vida financeira"
+         },
+         {
+            "icon":"globe",
+            "title":"Open Finance",
+            "subtitle":"Mais autonomia e as melhores ofertas"
+         },
+         {
+            "icon":"losango",
+            "title":"Pix",
+            "subtitle":"Pague, transfira e receba"
+         },
+         {
+            "icon":"apoio",
+            "title":"Empréstimos",
+            "subtitle":""
+         }
+      ]
+   },
+   {
+      "itemName":"Default 2",
+      "content":[
+         {
+            "icon":"home",
+            "title":"Home",
+            "subtitle":""
+         },
+         {
+            "icon":"notification",
+            "title":"Notificações",
+            "subtitle":""
+         },
+         {
+            "icon":"saldo",
+            "title":"Saldo e extrato",
+            "subtitle":"Veja seu saldo e extrato"
+         },
+         {
+            "icon":"transfer",
+            "title":"Transações",
+            "subtitle":""
+         },
+         {
+            "icon":"apoio",
+            "title":"Empréstimos",
+            "subtitle":""
+         }
+      ]
+   }
+]
