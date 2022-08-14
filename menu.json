@@ -2,11 +2,11 @@
    "items":{
       "default":{
          "header":{
-            "first":"teste",
-            "second":"000",
+            "first":"Fulano",
+            "second":"ag 002 Cc 000-03",
             "btn":{
-               "icon":"home",
-               "title":"Home",
+               "icon":"person",
+               "title":"Sair do App",
                "subtitle":""
             },
             "search":{
@@ -69,7 +69,18 @@
       },
       "fallback":{
          "header":{
-            
+            "first":"teste",
+            "second":"000",
+            "btn":{
+               "icon":"home",
+               "title":"Home",
+               "subtitle":""
+            },
+            "search":{
+               "icon":"home",
+               "title":"Home",
+               "subtitle":""
+            }
          },
          "sections":[
             {
