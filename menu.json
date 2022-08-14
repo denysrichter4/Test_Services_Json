@@ -1,16 +1,16 @@
 {
    "default":{
       "header":{
-         "first":"teste",
-         "second":"000",
+         "first":"Fulano",
+         "second":"ag 0001 Cc 00000-01",
          "btn":{
-            "icon":"home",
-            "title":"Home",
+            "icon":"person",
+            "title":"Meus Dados",
             "subtitle":""
          },
          "search":{
-            "icon":"home",
-            "title":"Home",
+            "icon":"search",
+            "title":"O que está procurando?",
             "subtitle":""
          }
       },
