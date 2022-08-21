@@ -1,71 +1,49 @@
 {
-   "items":{
-      "default":{
-         "header":{
-            "first":"Fulano",
-            "second":"ag 002 Cc 000-03",
-            "btn":{
-               "icon":"person",
-               "title":"Sair do App",
-               "subtitle":""
-            },
-            "search":{
-               "icon":"home",
-               "title":"Home",
-               "subtitle":""
-            }
-         },
-         "sections":[
-            {
-               "content":[
-                  {
-                     "icon":"home",
-                     "title":"Home",
-                     "subtitle":""
-                  },
-                  {
-                     "icon":"notification",
-                     "title":"Notificações",
-                     "subtitle":""
-                  },
-                  {
-                     "icon":"saldo",
-                     "title":"Saldo e extrato",
-                     "subtitle":"Veja seu saldo e extrato"
-                  },
-                  {
-                     "icon":"transfer",
-                     "title":"Transações",
-                     "subtitle":""
-                  },
-                  {
-                     "icon":"card",
-                     "title":"Cartões",
-                     "subtitle":""
-                  },
-                  {
-                     "icon":"graph",
-                     "title":"Santander On",
-                     "subtitle":"Veja como anda sua vida financeira"
-                  },
-                  {
-                     "icon":"globe",
-                     "title":"Open Finance",
-                     "subtitle":"Mais autonomia e as melhores ofertas"
-                  },
-                  {
-                     "icon":"losango",
-                     "title":"Pix",
-                     "subtitle":"Pague, transfira e receba"
-                  },
-                  {
-                     "icon":"apoio",
-                     "title":"Empréstimos",
-                     "subtitle":""
-                  }
-               ]
-            }
-         ]
-      }
-   }
+  "menu": {
+    "home": {
+      "icon": "home",
+      "title": "Home",
+      "subtitle": ""
+    },
+    "noticacoes": {
+      "icon": "notification",
+      "title": "Notificações",
+      "subtitle": ""
+    },
+    "saldo": {
+      "icon": "saldo",
+      "title": "Saldo e extrato",
+      "subtitle": "Veja seu saldo e extrato"
+    },
+    "transacoes": {
+      "icon": "transfer",
+      "title": "Transações",
+      "subtitle": ""
+    },
+    "cartoes": {
+      "icon": "card",
+      "title": "Cartões",
+      "subtitle": ""
+    },
+    "santanderon": {
+      "icon": "graph",
+      "title": "Santander On",
+      "subtitle": "Veja como anda sua vida financeira"
+    },
+    "openfinance": {
+      "icon": "globe",
+      "title": "Open Finance",
+      "subtitle": "Mais autonomia e as melhores ofertas"
+    },
+    "pix": {
+      "icon": "losango",
+      "title": "Pix",
+      "subtitle": "Pague, transfira e receba"
+    },
+    "emprestimo": {
+      "icon": "apoio",
+      "title": "Empréstimos",
+      "subtitle": ""
+    }
+  }
 }
